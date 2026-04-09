@@ -1,0 +1,4247 @@
+{
+  "version": "1.0.0",
+  "totalFonts": 1060,
+  "structure": "batches",
+  "fonts": [
+    {
+      "name": "18cents",
+      "batch": "batch-01"
+    },
+    {
+      "name": "ABeeZee-Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "ABeeZee-Regular",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AGENCYB",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AGENCYR",
+      "batch": "batch-01"
+    },
+    {
+      "name": "ALGER",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Abel regular",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Acme____",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Actor-Regular",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Adellia-BWyEw",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AirwaysPersonalUseOnly-5Rr8",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Aldine401 BT Bold Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Aldine401 BT Bold",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Aldine401 BT Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Aldine401 BT Roman",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Alef-Bold",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Alef-Regular",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AlexBrush-Regular",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AlexandraCalligraphyRegular-Yz5zL",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Alfredo_",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amatic-Bold",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AmaticSC-Regular",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AmbarPearlPersonalUse-0nBz",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Americana BT Bold",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Americana BT Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Americana XBd BT Extra Bold",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Americana XBdCn BT Extra Bold",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amerigo BT Bold Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amerigo BT Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amerigo BT Roman",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amerigo Md BT Medium Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amerigo Md BT Medium",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Ameth___",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amiri-Bold",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amiri-BoldItalic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "Amiri-Italic",
+      "batch": "batch-01"
+    },
+    {
+      "name": "AmiriQuran",
+      "batch": "batch-01"
+    },
+    {
+      "name": "accid_",
+      "batch": "batch-01"
+    },
+    {
+      "name": "aileron.light",
+      "batch": "batch-01"
+    },
+    {
+      "name": "aliee13",
+      "batch": "batch-01"
+    },
+    {
+      "name": "almosnow",
+      "batch": "batch-01"
+    },
+    {
+      "name": "ANTIC___",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ANTQUAB",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ANTQUABI",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ANTQUAI",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ARDECODE",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ARDELANEY",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ARESSENCE",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ARIALN",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ARIALNBI",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ARIALNI",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ARLRDBD",
+      "batch": "batch-02"
+    },
+    {
+      "name": "AnandaBlackPersonalUseRegular-rg9Rx",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Andale Mono",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Antonio-Light",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Anybaby-mLqA9",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Anybody-ZVdKZ",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Anything-PK8dd",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Arabic-L3nv5",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ArchitectsDaughter",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Archivo Narrow Bold",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Archivo Narrow Medium",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Archivo Narrow SemiBold Italic",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Arial Narrow",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Arial_0",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Arimo regular",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Aspire Font",
+      "batch": "batch-02"
+    },
+    {
+      "name": "Astone-d9aYE",
+      "batch": "batch-02"
+    },
+    {
+      "name": "andlso",
+      "batch": "batch-02"
+    },
+    {
+      "name": "arial",
+      "batch": "batch-02"
+    },
+    {
+      "name": "arialbd",
+      "batch": "batch-02"
+    },
+    {
+      "name": "arialbi",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ariali",
+      "batch": "batch-02"
+    },
+    {
+      "name": "ariblk",
+      "batch": "batch-02"
+    },
+    {
+      "name": "AVENGEANCE HEROIC AVENGER",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AstutelyRegular-jE0j9",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Audiowide-Regular",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Auntie-BWzGn",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AutumnFlowers-9YVZK",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Autumn__",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Averia-Bold",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Averia-BoldItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Averia-Gruesa",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Averia-Italic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Averia-Light",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Averia-LightItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Averia-Regular",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSans-Bold",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSans-BoldItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSans-Italic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSans-Light",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSans-LightItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSans-Regular",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSerif-Bold",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSerif-BoldItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSerif-Italic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSerif-Light",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSerif-LightItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AveriaSerif-Regular",
+      "batch": "batch-03"
+    },
+    {
+      "name": "AyrtonPightRegular-ax6M9",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BALTH___",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Babe-GO1JG",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BakerSignet BT Roman",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BananasItalicPersonalUseRegular-WyBxO",
+      "batch": "batch-03"
+    },
+    {
+      "name": "Bangers-Regular",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-Black",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-BlackItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-Bold",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-BoldItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-ExtraBold",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-ExtraBoldItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-ExtraLight",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-ExtraLightItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-Italic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-Light",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-LightItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-Medium",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-MediumItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-Regular",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-SemiBold",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BarlowCondensed-SemiBoldItalic",
+      "batch": "batch-03"
+    },
+    {
+      "name": "babyk___",
+      "batch": "batch-03"
+    },
+    {
+      "name": "bahnschrift",
+      "batch": "batch-03"
+    },
+    {
+      "name": "bakery",
+      "batch": "batch-03"
+    },
+    {
+      "name": "BASKVILL",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BASTION_",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BAUHS93",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BEBAS",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BEBAS_",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BEBAS__",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BELL",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BELLB",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BELLI",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BERNHC",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BKANT",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BLKCHCRY",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BOD_BI",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BarlowCondensed-Thin",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BarlowCondensed-ThinItalic",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Barrbar-DOKOR",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BauerBodni BT Bold Italic",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BauerBodni BT Bold",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BauerBodni BT Italic",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BauerBodni BT Roman",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BeautifulChristmas-9YxBj",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BeautifulPeoplePersonalUse-dE0g",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BeautyMountainsPersonalUse-od7z",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BebasNeue-Regular",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BebasNeue",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BellCent Add BT Address",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Bellota-Bold",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Bellota-BoldItalic",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Bellota-Italic",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Bellota-Regular",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Belove-X37RP",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Belwe Lt BT Light",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Belwe Lt BT Medium",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Beon",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BernhardMod BT Bold Italic",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BernhardMod BT Bold",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BernhardMod BT Italic",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BernhardMod BT Roman",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BetterGrade-519DV",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BlackOpsOne",
+      "batch": "batch-04"
+    },
+    {
+      "name": "Blackout-2am",
+      "batch": "batch-04"
+    },
+    {
+      "name": "base05",
+      "batch": "batch-04"
+    },
+    {
+      "name": "bernadette",
+      "batch": "batch-04"
+    },
+    {
+      "name": "bernadette_rough",
+      "batch": "batch-04"
+    },
+    {
+      "name": "bernard-mt-condensed",
+      "batch": "batch-04"
+    },
+    {
+      "name": "beyond_the_mountains",
+      "batch": "batch-04"
+    },
+    {
+      "name": "bignoodletoo",
+      "batch": "batch-04"
+    },
+    {
+      "name": "bnjinx",
+      "batch": "batch-04"
+    },
+    {
+      "name": "bnmachine",
+      "batch": "batch-04"
+    },
+    {
+      "name": "bobcat",
+      "batch": "batch-04"
+    },
+    {
+      "name": "BOD_B",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_BLAI",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_BLAR",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_CB",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_CBI",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_CR",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_I",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_PSTC",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOD_R",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOOKOSB",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOOKOSBI",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BOOKOSI",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BRADHITC",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BRLNSB",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BRLNSR",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BROADW",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BRUSHSCI",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bodoni BT Italic",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bodoni BT Roman",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bodoni Bd BT Bold",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bodoni Bk BT Book Italic",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bodoni Bk BT Book",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BoldmattePersonalUseOnly-7BZj4",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Borea___",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Brand___",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bridga-4BvmK",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BrightDiamondPersonalUseOnl-OV2Ze",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Broadcast_Matter",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Broisther-jEGZG",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bruss___",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Bulgatti-xgMV",
+      "batch": "batch-05"
+    },
+    {
+      "name": "BungeeInline-Regular",
+      "batch": "batch-05"
+    },
+    {
+      "name": "CabinSketch-Bold",
+      "batch": "batch-05"
+    },
+    {
+      "name": "CabinSketch-Regular",
+      "batch": "batch-05"
+    },
+    {
+      "name": "Cablebeach-MVxEJ",
+      "batch": "batch-05"
+    },
+    {
+      "name": "CadillacPersonalUseItalic-K7pny",
+      "batch": "batch-05"
+    },
+    {
+      "name": "CafeDeParisSans-BWwJx",
+      "batch": "batch-05"
+    },
+    {
+      "name": "CafedeparisScript-8M190",
+      "batch": "batch-05"
+    },
+    {
+      "name": "browa",
+      "batch": "batch-05"
+    },
+    {
+      "name": "browau",
+      "batch": "batch-05"
+    },
+    {
+      "name": "CALIFB",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALIFI",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALIFR",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALIST",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALISTB",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALISTBI",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALISTI",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALLI___",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CALVIN__",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CASTELAR",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CENSCBK",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CENTAUR",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Caladea-Bold",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Caladea-BoldItalic",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Caladea-Italic",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Caladea-Regular",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Calligraph810 BT Italic",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Calligraph810 BT Roman",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Cambridge-owYqx",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CampanaScriptPersonalUseRegular-x3BBj",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candara",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candarab",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candarai",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candaral",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candarali",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candaraz",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candida BT Bold",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candida BT Italic",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Candida BT Roman",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CandyCanePersonalUseRegular-WyaPv",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CantoraOne-Regular",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CarandaPersonalUse-qLOq",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Carlito-Bold",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Carlito-BoldItalic",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Carlito-Italic",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Carlito-Regular",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Caveat-Bold",
+      "batch": "batch-06"
+    },
+    {
+      "name": "Caveat-Regular",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CentSchbkCyrill BT Bold Italic",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CentSchbkCyrill BT Bold",
+      "batch": "batch-06"
+    },
+    {
+      "name": "calibri",
+      "batch": "batch-06"
+    },
+    {
+      "name": "calibrib",
+      "batch": "batch-06"
+    },
+    {
+      "name": "calibrii",
+      "batch": "batch-06"
+    },
+    {
+      "name": "calibril",
+      "batch": "batch-06"
+    },
+    {
+      "name": "calibrili",
+      "batch": "batch-06"
+    },
+    {
+      "name": "calibriz",
+      "batch": "batch-06"
+    },
+    {
+      "name": "cambriab",
+      "batch": "batch-06"
+    },
+    {
+      "name": "cambriai",
+      "batch": "batch-06"
+    },
+    {
+      "name": "cambriaz",
+      "batch": "batch-06"
+    },
+    {
+      "name": "candles_",
+      "batch": "batch-06"
+    },
+    {
+      "name": "CENTURY",
+      "batch": "batch-07"
+    },
+    {
+      "name": "CHILLER",
+      "batch": "batch-07"
+    },
+    {
+      "name": "CLARE___",
+      "batch": "batch-07"
+    },
+    {
+      "name": "COLONNA",
+      "batch": "batch-07"
+    },
+    {
+      "name": "COMMONS_",
+      "batch": "batch-07"
+    },
+    {
+      "name": "CentSchbkCyrill BT Italic",
+      "batch": "batch-07"
+    },
+    {
+      "name": "CentSchbkCyrill BT Roman",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century725 BT Bold",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century725 BT Italic",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century725 BT Roman",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century725 Cn BT",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 BT Italic",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 BT Roman",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 No2 BT Bold Italic",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 No2 BT Bold",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 No2 BT Italic",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 No2 BT Roman",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 SeBd BT Semi Bold Italic",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Century751 SeBd BT Semi Bold",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Certificate",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Champagne & Limousines",
+      "batch": "batch-07"
+    },
+    {
+      "name": "ChangaOne-Regular",
+      "batch": "batch-07"
+    },
+    {
+      "name": "ChaparralPro-LightIt",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Chivo-Regular",
+      "batch": "batch-07"
+    },
+    {
+      "name": "ChocoChici-2OMyW",
+      "batch": "batch-07"
+    },
+    {
+      "name": "ChocoChici-vmBPZ",
+      "batch": "batch-07"
+    },
+    {
+      "name": "ChristmasCarolPersonalRegular-lgzPD",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Chunk",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Chunkfive",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Cinzel-Black",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Clarendon BT Bold",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Clarendon BT Roman",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Clarendon Blk BT Black",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Clarendon Lt BT Light",
+      "batch": "batch-07"
+    },
+    {
+      "name": "CoconRegularFont",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Colbert_",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Comfortaa-Bold",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Comfortaa-Light",
+      "batch": "batch-07"
+    },
+    {
+      "name": "Comfortaa-Regular",
+      "batch": "batch-07"
+    },
+    {
+      "name": "chinyen",
+      "batch": "batch-07"
+    },
+    {
+      "name": "comic",
+      "batch": "batch-07"
+    },
+    {
+      "name": "comicbd",
+      "batch": "batch-07"
+    },
+    {
+      "name": "comici",
+      "batch": "batch-07"
+    },
+    {
+      "name": "comicz",
+      "batch": "batch-07"
+    },
+    {
+      "name": "consola",
+      "batch": "batch-07"
+    },
+    {
+      "name": "consolab",
+      "batch": "batch-07"
+    },
+    {
+      "name": "consolai",
+      "batch": "batch-07"
+    },
+    {
+      "name": "consolaz",
+      "batch": "batch-07"
+    },
+    {
+      "name": "constanb",
+      "batch": "batch-07"
+    },
+    {
+      "name": "constani",
+      "batch": "batch-07"
+    },
+    {
+      "name": "COOPBL",
+      "batch": "batch-08"
+    },
+    {
+      "name": "COPRGTB",
+      "batch": "batch-08"
+    },
+    {
+      "name": "COPRGTL",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CORDIAU",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CURLZ___",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Convergence-Regular",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Cookie-Regular",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Cools___",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Cooper Lt BT Bold Italic",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Cooper Lt BT Bold",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Cooper Lt BT Light Italic",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Cooper Lt BT Light",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-Bold",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-BoldItalic",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-Italic",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-Light",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-LightItalic",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-Medium",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-MediumItalic",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-Regular",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-SemiBold",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CormorantInfant-SemiBoldItalic",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Corpo___",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Courgette-Regular",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CourierStd",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CoveredByYourGrace",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Cuprum-Regular",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CursiveSans",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CutMeOut",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CutMeOut2",
+      "batch": "batch-08"
+    },
+    {
+      "name": "CutMeOut3",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Dagelland-8MB7B",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Dancing Script OT",
+      "batch": "batch-08"
+    },
+    {
+      "name": "Dancing Script",
+      "batch": "batch-08"
+    },
+    {
+      "name": "constan",
+      "batch": "batch-08"
+    },
+    {
+      "name": "constanz",
+      "batch": "batch-08"
+    },
+    {
+      "name": "corbel",
+      "batch": "batch-08"
+    },
+    {
+      "name": "corbelb",
+      "batch": "batch-08"
+    },
+    {
+      "name": "corbeli",
+      "batch": "batch-08"
+    },
+    {
+      "name": "corbell",
+      "batch": "batch-08"
+    },
+    {
+      "name": "corbelli",
+      "batch": "batch-08"
+    },
+    {
+      "name": "corbelz",
+      "batch": "batch-08"
+    },
+    {
+      "name": "cour",
+      "batch": "batch-08"
+    },
+    {
+      "name": "courbd",
+      "batch": "batch-08"
+    },
+    {
+      "name": "courbi",
+      "batch": "batch-08"
+    },
+    {
+      "name": "couri",
+      "batch": "batch-08"
+    },
+    {
+      "name": "couture-bld",
+      "batch": "batch-08"
+    },
+    {
+      "name": "cracj___",
+      "batch": "batch-08"
+    },
+    {
+      "name": "creerg__",
+      "batch": "batch-08"
+    },
+    {
+      "name": "dameron",
+      "batch": "batch-08"
+    },
+    {
+      "name": "D-DIN-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DAYTON__",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DEADJIM",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DEADJIM_0",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DELAVAN_",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DavidCLM-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DavidCLM-BoldItalic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DavidCLM-Medium",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DavidCLM-MediumItalic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DavidLibre-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DavidLibre-Regular",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DeVinne Txt BT",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuMathTeXGyre",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSans-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSans-BoldOblique",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSans-ExtraLight",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSans-Oblique",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSans",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansCondensed-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansCondensed-BoldOblique",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansCondensed-Oblique",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansCondensed",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansMono-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansMono-BoldOblique",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansMono-Oblique",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSansMono",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerif-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerif-BoldItalic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerif-Italic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerif",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerifCondensed-Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerifCondensed-BoldItalic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerifCondensed-Italic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DejaVuSerifCondensed",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Deneane_",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Detente_",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Deutschlands-lg495",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Dilem",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four Bold Italic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four Condensed Bold Italic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four Condensed Bold",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four Condensed Italic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four Condensed",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four Italic",
+      "batch": "batch-09"
+    },
+    {
+      "name": "Directive Four",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DomCasual BT",
+      "batch": "batch-09"
+    },
+    {
+      "name": "digifit",
+      "batch": "batch-09"
+    },
+    {
+      "name": "distant galaxy 2",
+      "batch": "batch-09"
+    },
+    {
+      "name": "docktrin",
+      "batch": "batch-09"
+    },
+    {
+      "name": "DOMIN___",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DUBAI-BOLD",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DUBAI-LIGHT",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DUBAI-MEDIUM",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DUBAI-REGULAR",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DoppioOne-Regular",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Dosis-Bold",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Dosis-ExtraBold",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Dosis-ExtraLight",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Dosis-Light",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Dosis-Medium",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Dosis-Regular",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Dosis-SemiBold",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DoulosSIL-R",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DreamHerRegular-lalw",
+      "batch": "batch-10"
+    },
+    {
+      "name": "DripinkpersonaluseBlack-p72nK",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ELEPHNT",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ELEPHNTI",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ENGR",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ERASBD",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ERASDEMI",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ERASLGHT",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ERASMD",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Earthbound-Regular",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Embassy BT",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Emmett__",
+      "batch": "batch-10"
+    },
+    {
+      "name": "EmotionalRescuePersonalUseRegular-PKY87",
+      "batch": "batch-10"
+    },
+    {
+      "name": "EngraversGothic BT",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Enliven_",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Eurostile LT Extended #2",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Eurostile LT Medium",
+      "batch": "batch-10"
+    },
+    {
+      "name": "EvaMayasari-2OAov",
+      "batch": "batch-10"
+    },
+    {
+      "name": "EvaMayasari-K79r7",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Evergarden-YzaLy",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Excited-z8YY1",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Exotc350 Bd BT Bold",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Exotc350 DmBd BT Demi-Bold",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Exotc350 Lt BT Light",
+      "batch": "batch-10"
+    },
+    {
+      "name": "FELIXTI",
+      "batch": "batch-10"
+    },
+    {
+      "name": "Fatherday-rgzjO",
+      "batch": "batch-10"
+    },
+    {
+      "name": "FeelfreePersonalUseRegular-lg2Bw",
+      "batch": "batch-10"
+    },
+    {
+      "name": "FiraSans-ExtraBold",
+      "batch": "batch-10"
+    },
+    {
+      "name": "FiraSans-Light",
+      "batch": "batch-10"
+    },
+    {
+      "name": "FiraSans-SemiBold",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ebrima",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ebrimabd",
+      "batch": "batch-10"
+    },
+    {
+      "name": "estre",
+      "batch": "batch-10"
+    },
+    {
+      "name": "ethnocen",
+      "batch": "batch-10"
+    },
+    {
+      "name": "euphorig",
+      "batch": "batch-10"
+    },
+    {
+      "name": "fingerpop2",
+      "batch": "batch-10"
+    },
+    {
+      "name": "FORTE",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRABK",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRABKIT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRADM",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRADMCN",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRADMIT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRAHV",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRAHVIT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRAMDCN",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FREESCPT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FRSCRIPT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FTLTLT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Fjalla One regular",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Flareserif821 BT Roman",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Flareserif821 Lt BT Bold",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Flareserif821 Lt BT Light",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FontAwesome Regular",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FrankRuehlCLM-Bold",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FrankRuehlCLM-BoldOblique",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FrankRuehlCLM-Medium",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FrankRuehlCLM-MediumOblique",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FrankRuhlHofshi-Bold",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FrankRuhlHofshi-Regular",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FredokaOne-Regular",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FreeUniversal-Regular",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FreeUniversal-Regular_0",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FreeUniversal-Regular_1",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Freehand521 BT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Freehand591 BT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "FugazOne-Regular",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Bk BT Book Italic",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Bk BT Book",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Bold font",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Condensed Bold",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Md BT Bold Italic",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Md BT Bold",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Md BT Medium Italic",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Futura Md BT Medium",
+      "batch": "batch-11"
+    },
+    {
+      "name": "GARABD",
+      "batch": "batch-11"
+    },
+    {
+      "name": "GARAIT",
+      "batch": "batch-11"
+    },
+    {
+      "name": "Gabriola",
+      "batch": "batch-11"
+    },
+    {
+      "name": "GalSILB",
+      "batch": "batch-11"
+    },
+    {
+      "name": "GalSILR",
+      "batch": "batch-11"
+    },
+    {
+      "name": "flubber",
+      "batch": "batch-11"
+    },
+    {
+      "name": "fonts-catalog",
+      "batch": "batch-11"
+    },
+    {
+      "name": "framd",
+      "batch": "batch-11"
+    },
+    {
+      "name": "framdit",
+      "batch": "batch-11"
+    },
+    {
+      "name": "futura medium condensed bt",
+      "batch": "batch-11"
+    },
+    {
+      "name": "gadugi",
+      "batch": "batch-11"
+    },
+    {
+      "name": "gadugib",
+      "batch": "batch-11"
+    },
+    {
+      "name": "GARA",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GIGI",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GILBI___",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GILB____",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GILC____",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GILI____",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GILLUBCD",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GILSANUB",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GIL_____",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GLECB",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GLSNECB",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gauge-Heavy",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gauge-Oblique",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gauge-Regular",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gen-Light",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBasB",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBasBI",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBasI",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBasR",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBkBasB",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBkBasBI",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBkBasI",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenBkBasR",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenW-Light",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GenW-Regular",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GeoSlab703 Md BT Bold Italic",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GeoSlab703 Md BT Bold",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GeoSlab703 Md BT Medium Italic",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GeoSlab703 Md BT Medium",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GeoSlab703 MdCn BT Bold",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GeoSlab703 MdCn BT Medium",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Geometos",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Geometr212 BkCn BT Book",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Geometr212 BkCn BT Heavy",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Geometr231 Lt BT Light",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Geometr415 Blk BT Black",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Geometr706 BlkCn BT Black",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GeraldinePersonalUseItalic-PK12m",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Germanica",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gidole-Regular",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Glock___",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gloss_And_Bloom",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gotham-Black",
+      "batch": "batch-12"
+    },
+    {
+      "name": "Gotham-Bold",
+      "batch": "batch-12"
+    },
+    {
+      "name": "gazzarelli",
+      "batch": "batch-12"
+    },
+    {
+      "name": "georgia",
+      "batch": "batch-12"
+    },
+    {
+      "name": "georgiab",
+      "batch": "batch-12"
+    },
+    {
+      "name": "georgiai",
+      "batch": "batch-12"
+    },
+    {
+      "name": "georgiaz",
+      "batch": "batch-12"
+    },
+    {
+      "name": "goodtime",
+      "batch": "batch-12"
+    },
+    {
+      "name": "GOTHIC",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GOTHICB",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GOTHICBI",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GOTHICI",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GOUDOS",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GOUDOSB",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GOUDOSI",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GOUDYSTO",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GROBOLD",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Gotham Narrow Book",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Gotham-Light",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Gotham-Medium",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GoudyOlSt BT Bold Italic",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GoudyOlSt BT Bold",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GoudyOlSt BT Italic",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GoudyOlSt BT Roman",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Graduate-Regular",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Gralise-9YLmK",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Gralise-ywvmY",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GrandHotel-Regular",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Grand_Aventure",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Grand_Aventure_Outline",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Grand_Aventure_Rough",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Grand_Aventure_Shadow",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Grand_Aventure_Text",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GreatVibes-A7yL",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GreatVibes-Regular",
+      "batch": "batch-13"
+    },
+    {
+      "name": "GreatVibes-Wmr4",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Greek_i",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Guardians",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HARLOWSI",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HARNGTON",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HARVEIT_",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HARVEST_",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HATTEN",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HansKendrick-Regular",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Hansen__",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Hatteria-d9WmE",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Haydena-6Yz7Y",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HeadstayRegular-1GrM2",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HelloKetta-d99oX",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Helvetica-Bold",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Helvetica-BoldOblique",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Helvetica-Light",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Helvetica-LightOblique",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Helvetica-Oblique",
+      "batch": "batch-13"
+    },
+    {
+      "name": "Helvetica",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HelveticaNeue Light",
+      "batch": "batch-13"
+    },
+    {
+      "name": "handmeds",
+      "batch": "batch-13"
+    },
+    {
+      "name": "heavyhea2",
+      "batch": "batch-13"
+    },
+    {
+      "name": "HTOWERT",
+      "batch": "batch-14"
+    },
+    {
+      "name": "HTOWERTI",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Hombre__",
+      "batch": "batch-14"
+    },
+    {
+      "name": "HughIsLifePersonalUseItalic-K7axe",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humanst521 BT Bold Italic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humanst521 BT Bold",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humanst521 BT Italic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humanst521 BT Roman",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humanst521 Lt BT Light Italic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humanst521 Lt BT Light",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humnst777 BT Roman",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humnst777 Blk BT Black Italic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humnst777 BlkCn BT Black",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humnst777 Cn BT Bold",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humnst777 Cn BT",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Humnst777 Lt BT Light",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Huxley_Titling",
+      "batch": "batch-14"
+    },
+    {
+      "name": "IMPRISHA",
+      "batch": "batch-14"
+    },
+    {
+      "name": "INFROMAN",
+      "batch": "batch-14"
+    },
+    {
+      "name": "ITCBLKAD",
+      "batch": "batch-14"
+    },
+    {
+      "name": "ITCEDSCR",
+      "batch": "batch-14"
+    },
+    {
+      "name": "ITCKRIST",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Impress BT",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Inkfree",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Innocent-BWePG",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Inter-Bold-slnt=0",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Inter-Regular-slnt=0",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Itali___",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JOKERMAN",
+      "batch": "batch-14"
+    },
+    {
+      "name": "Jasmine_and_Greentea",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-Bold",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-BoldItalic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-Italic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-Light",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-LightItalic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-Regular",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-SemiBold",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-SemiBoldItalic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-Thin",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JosefinSlab-ThinItalic",
+      "batch": "batch-14"
+    },
+    {
+      "name": "himalaya",
+      "batch": "batch-14"
+    },
+    {
+      "name": "hollh___",
+      "batch": "batch-14"
+    },
+    {
+      "name": "holomdl2",
+      "batch": "batch-14"
+    },
+    {
+      "name": "horizon-bt-11163",
+      "batch": "batch-14"
+    },
+    {
+      "name": "hotel_de_paris",
+      "batch": "batch-14"
+    },
+    {
+      "name": "hotel_de_paris_Xe",
+      "batch": "batch-14"
+    },
+    {
+      "name": "huntress",
+      "batch": "batch-14"
+    },
+    {
+      "name": "impact",
+      "batch": "batch-14"
+    },
+    {
+      "name": "inductio",
+      "batch": "batch-14"
+    },
+    {
+      "name": "javatext",
+      "batch": "batch-14"
+    },
+    {
+      "name": "JUICE___",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Julietta",
+      "batch": "batch-15"
+    },
+    {
+      "name": "KUNSTLER",
+      "batch": "batch-15"
+    },
+    {
+      "name": "KaiserzeitGotisch",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kalam-Bold",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kalam-Light",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kalam-Regular",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kampung_Zombie",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kanalisirung",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kastela-MV6zw",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kaufmann BT",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Kenzo Regular",
+      "batch": "batch-15"
+    },
+    {
+      "name": "KindRegards-p719r",
+      "batch": "batch-15"
+    },
+    {
+      "name": "KindRegards-x3285",
+      "batch": "batch-15"
+    },
+    {
+      "name": "KingdomInkPersonalUse-VG9jB",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LATINWD",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LBRITE",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LBRITED",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LBRITEDI",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LBRITEI",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LCALLIG",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LEELAWAD",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LEELAWDB",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LFAX",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LFAXD",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LFAXDI",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LFAXI",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LHANDW",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LaGuapita",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Black",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-BlackItalic",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Bold",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-BoldItalic",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Hairline",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-HairlineItalic",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Italic",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Light",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-LightItalic",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Regular",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Regular_0",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-Thin",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lato-ThinItalic",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lavoir",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LeelUIsl",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LeelaUIb",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LeelawUI",
+      "batch": "batch-15"
+    },
+    {
+      "name": "Lemon-Regular",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LemonJellyPersonalUse-dEqR",
+      "batch": "batch-15"
+    },
+    {
+      "name": "koverwatch",
+      "batch": "batch-15"
+    },
+    {
+      "name": "l_10646",
+      "batch": "batch-15"
+    },
+    {
+      "name": "LSANS",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LSANSD",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LSANSDI",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LSANSI",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LTYPE",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LTYPEB",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LTYPEBO",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LTYPEO",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationMono-Bold",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationMono-BoldItalic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationMono-Italic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationMono-Regular",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSans-Bold",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSans-BoldItalic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSans-Italic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSans-Regular",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSansNarrow-Bold",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSansNarrow-BoldItalic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSansNarrow-Italic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSansNarrow-Regular",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSerif-Bold",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSerif-BoldItalic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSerif-Italic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LiberationSerif-Regular",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Life BT Bold Italic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Life BT Bold",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Life BT Italic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Life BT Roman",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Limelight-Regular",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Limou___",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinBiolinum_RB_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinBiolinum_RI_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinBiolinum_R_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinLibertine_DR_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinLibertine_RBI_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinLibertine_RB_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinLibertine_RI_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinLibertine_RZI_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinLibertine_RZ_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinLibertine_R_G",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Linotext Dfr",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LinotextStd",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Lobster_1.3",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LovelyHome-9aBZ",
+      "batch": "batch-16"
+    },
+    {
+      "name": "Lucian Schoenschrift CAT",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LucidaBrightDemiBold",
+      "batch": "batch-16"
+    },
+    {
+      "name": "LucidaBrightDemiItalic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "linowrite",
+      "batch": "batch-16"
+    },
+    {
+      "name": "littlelo",
+      "batch": "batch-16"
+    },
+    {
+      "name": "ltromatic",
+      "batch": "batch-16"
+    },
+    {
+      "name": "NotoSans-Condensed",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSans-Italic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSans-Light",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSans-LightItalic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSans-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSansGeorgian-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSansGeorgian-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSansHebrew-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSansHebrew-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSansLao-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSansLao-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSansLisu-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-BoldItalic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-Condensed",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-CondensedBold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-CondensedBoldItalic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-CondensedItalic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-Italic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-Light",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-LightItalic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerif-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifArmenian-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifArmenian-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifGeorgian-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifGeorgian-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifHebrew-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifHebrew-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifLao-Bold",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NotoSerifLao-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "Notram__",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaCut",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaFlat",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaOval",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaRound-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaRound",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaScript",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaSlim",
+      "batch": "batch-20"
+    },
+    {
+      "name": "NovaSquare",
+      "batch": "batch-20"
+    },
+    {
+      "name": "Novem___",
+      "batch": "batch-20"
+    },
+    {
+      "name": "Nunito-Light",
+      "batch": "batch-20"
+    },
+    {
+      "name": "Nunito-Regular",
+      "batch": "batch-20"
+    },
+    {
+      "name": "OCR-A BT",
+      "batch": "batch-20"
+    },
+    {
+      "name": "OCR-B 10 BT",
+      "batch": "batch-20"
+    },
+    {
+      "name": "OCRAEXT",
+      "batch": "batch-20"
+    },
+    {
+      "name": "OLDENGL",
+      "batch": "batch-20"
+    },
+    {
+      "name": "ONYX",
+      "batch": "batch-20"
+    },
+    {
+      "name": "OpenSans-BoldItalic",
+      "batch": "batch-20"
+    },
+    {
+      "name": "ntailu",
+      "batch": "batch-20"
+    },
+    {
+      "name": "ntailub",
+      "batch": "batch-20"
+    },
+    {
+      "name": "OpenSans-Bold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-ExtraBold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-ExtraBoldItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-Italic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-Light",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-LightItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-Regular",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-Semibold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "OpenSans-SemiboldItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Opinehe_",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Orbitron Black",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Orbitron-Bold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Bold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-BoldItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Demi-BoldItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-DemiBold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Extra-LightItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-ExtraLight",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Heavy",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-HeavyItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Light",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-LightItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Medium",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-MediumItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Regular",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-RegularItalic",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-SemiBold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Oswald-Stencil",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PALSCRI",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PAPYRUS",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PARCHM",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PENLIIT_",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PENUL___",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Pacifico",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Parisian BT",
+      "batch": "batch-21"
+    },
+    {
+      "name": "Parisienne-Regular",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PathwayGothicOne-Regular",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PeacemakerPersonalUseRegular-2Oq5o",
+      "batch": "batch-21"
+    },
+    {
+      "name": "opens___",
+      "batch": "batch-21"
+    },
+    {
+      "name": "ostrich-black",
+      "batch": "batch-21"
+    },
+    {
+      "name": "ostrich-bold",
+      "batch": "batch-21"
+    },
+    {
+      "name": "ostrich-dashed",
+      "batch": "batch-21"
+    },
+    {
+      "name": "ostrich-light",
+      "batch": "batch-21"
+    },
+    {
+      "name": "ostrich-regular",
+      "batch": "batch-21"
+    },
+    {
+      "name": "ostrich-rounded",
+      "batch": "batch-21"
+    },
+    {
+      "name": "pala",
+      "batch": "batch-21"
+    },
+    {
+      "name": "palab",
+      "batch": "batch-21"
+    },
+    {
+      "name": "palabi",
+      "batch": "batch-21"
+    },
+    {
+      "name": "palai",
+      "batch": "batch-21"
+    },
+    {
+      "name": "parryhotter",
+      "batch": "batch-21"
+    },
+    {
+      "name": "PENULLI_",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PERBI___",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PERB____",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PERI____",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PERTIBD",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PERTILI",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PER_____",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PLAYBILL",
+      "batch": "batch-22"
+    },
+    {
+      "name": "POORICH",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PRISTINA",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PermanentMarker-Regular",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PermanentMarker",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Phrasme_",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Pirate__",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Playball-Regular",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Pride-eZEVn",
+      "batch": "batch-22"
+    },
+    {
+      "name": "PrinceValiant",
+      "batch": "batch-22"
+    },
+    {
+      "name": "QUIVEIT_",
+      "batch": "batch-22"
+    },
+    {
+      "name": "QaskinBlackPersonalUse-5wLG",
+      "batch": "batch-22"
+    },
+    {
+      "name": "QaskinWhitePersonalUse-67XD",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Qilkabold-DO6BR",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quanto-0Wg1G",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Queensides-3z7Ey",
+      "batch": "batch-22"
+    },
+    {
+      "name": "QueensidesLight-ZVj3l",
+      "batch": "batch-22"
+    },
+    {
+      "name": "QueensidesMedium-x30zV",
+      "batch": "batch-22"
+    },
+    {
+      "name": "QuickKissPersonalUse-PxlZ",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand-Bold",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand-BoldItalic",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand-Italic",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand-Light",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand-LightItalic",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand-Medium",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand-Regular",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Quicksand_Dash",
+      "batch": "batch-22"
+    },
+    {
+      "name": "QuiteMagicalRegular-8VA2",
+      "batch": "batch-22"
+    },
+    {
+      "name": "RAGE",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Rainbow-51LAG",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Rainy-2OPgK",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleigh BT Bold",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleigh BT Roman",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-Black",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-BlackItalic",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-Bold",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-BoldItalic",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-ExtraBold",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-ExtraBoldItalic",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-ExtraLight",
+      "batch": "batch-22"
+    },
+    {
+      "name": "Raleway-ExtraLightItalic",
+      "batch": "batch-22"
+    },
+    {
+      "name": "phagspa",
+      "batch": "batch-22"
+    },
+    {
+      "name": "phagspab",
+      "batch": "batch-22"
+    },
+    {
+      "name": "STENCIL",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Square",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Square721 BT Roman",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Square721 Cn BT Bold",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Square721 Cn BT Roman",
+      "batch": "batch-26"
+    },
+    {
+      "name": "StainyPersonalUseOnly-K3zZ",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Stephen_",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Steppes",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Strawberry Blossom",
+      "batch": "batch-26"
+    },
+    {
+      "name": "SummaryNotesRegular-Ea5ln",
+      "batch": "batch-26"
+    },
+    {
+      "name": "SunglasstypepersonaluseBold-OVeL3",
+      "batch": "batch-26"
+    },
+    {
+      "name": "SuperMario256",
+      "batch": "batch-26"
+    },
+    {
+      "name": "SweetSensationsPersonalUse-lRgq",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 BT Bold Italic",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 BT Bold",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 BT Italic",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 BT Roman",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Blk BT Black",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 BlkCn BT Black",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Cn BT Bold Italic",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Cn BT Bold",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Cn BT Italic",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Cn BT Roman",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Hv BT Heavy",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Lt BT Light Italic",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 Lt BT Light",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 LtEx BT Light",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 WGL4 BT Bold Italic",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 WGL4 BT Bold",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 WGL4 BT Italic",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Swis721 WGL4 BT Roman",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TCBI____",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TCB_____",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TCCB____",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TCCEB",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TCCM____",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TCMI____",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TCM_____",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TEMPSITC",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Tangerine_Bold",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Tangerine_Regular",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Tango BT",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Tarzan__",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Tauri-Regular",
+      "batch": "batch-26"
+    },
+    {
+      "name": "Teko-SemiBold",
+      "batch": "batch-26"
+    },
+    {
+      "name": "sylfaen",
+      "batch": "batch-26"
+    },
+    {
+      "name": "tahoma",
+      "batch": "batch-26"
+    },
+    {
+      "name": "tahomabd",
+      "batch": "batch-26"
+    },
+    {
+      "name": "taile",
+      "batch": "batch-26"
+    },
+    {
+      "name": "taileb",
+      "batch": "batch-26"
+    },
+    {
+      "name": "TITUSCBZ",
+      "batch": "batch-27"
+    },
+    {
+      "name": "The Perfect Christmas",
+      "batch": "batch-27"
+    },
+    {
+      "name": "TheHeartOfEverythingDemo-KRdD",
+      "batch": "batch-27"
+    },
+    {
+      "name": "TheNextFont",
+      "batch": "batch-27"
+    },
+    {
+      "name": "TheWeddingSignatureRegular-BWZ55",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Thinking_of_Betty_Light",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Times New Roman",
+      "batch": "batch-27"
+    },
+    {
+      "name": "TitilliumWeb-Light_0",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Toledo__",
+      "batch": "batch-27"
+    },
+    {
+      "name": "TradeGothicLTStd-Bold",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Tribbon",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Triforce",
+      "batch": "batch-27"
+    },
+    {
+      "name": "TwilightRegular-Yz6JL",
+      "batch": "batch-27"
+    },
+    {
+      "name": "TypoUpright BT",
+      "batch": "batch-27"
+    },
+    {
+      "name": "UbuntuMono-Bold",
+      "batch": "batch-27"
+    },
+    {
+      "name": "UbuntuMono-Regular",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Uni Sans Heavy",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Uni Sans Thin",
+      "batch": "batch-27"
+    },
+    {
+      "name": "UniversLTStd-Bold",
+      "batch": "batch-27"
+    },
+    {
+      "name": "UniversLTStd",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Universal Serif",
+      "batch": "batch-27"
+    },
+    {
+      "name": "VAGRounded BT",
+      "batch": "batch-27"
+    },
+    {
+      "name": "VALKEN__",
+      "batch": "batch-27"
+    },
+    {
+      "name": "VINERITC",
+      "batch": "batch-27"
+    },
+    {
+      "name": "VIVALDII",
+      "batch": "batch-27"
+    },
+    {
+      "name": "VLADIMIR",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Vacation-VGvwx",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Vivian__",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Vollkorn-Bold",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Vollkorn-BoldItalic",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Vollkorn-Italic",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Vollkorn-Regular",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Wasted",
+      "batch": "batch-27"
+    },
+    {
+      "name": "Waverly_",
+      "batch": "batch-27"
+    },
+    {
+      "name": "WeddingBouquet-0WnEz",
+      "batch": "batch-27"
+    },
+    {
+      "name": "terminat",
+      "batch": "batch-27"
+    },
+    {
+      "name": "the_breakdown",
+      "batch": "batch-27"
+    },
+    {
+      "name": "times",
+      "batch": "batch-27"
+    },
+    {
+      "name": "timesbd",
+      "batch": "batch-27"
+    },
+    {
+      "name": "timesbi",
+      "batch": "batch-27"
+    },
+    {
+      "name": "timesi",
+      "batch": "batch-27"
+    },
+    {
+      "name": "trebuc",
+      "batch": "batch-27"
+    },
+    {
+      "name": "trebucbd",
+      "batch": "batch-27"
+    },
+    {
+      "name": "trebucbi",
+      "batch": "batch-27"
+    },
+    {
+      "name": "trebucit",
+      "batch": "batch-27"
+    },
+    {
+      "name": "univers_condensed_bold2",
+      "batch": "batch-27"
+    },
+    {
+      "name": "verdana",
+      "batch": "batch-27"
+    },
+    {
+      "name": "verdanab",
+      "batch": "batch-27"
+    },
+    {
+      "name": "verdanai",
+      "batch": "batch-27"
+    },
+    {
+      "name": "verdanaz",
+      "batch": "batch-27"
+    },
+    {
+      "name": "WPCE08N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPCO01NA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPCO01NB",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPCO03N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPCO08N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPDV09N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV01NA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV01NB",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV02N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV04N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV05NA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV05NB",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV06NA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV06NB",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV07NA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV07NB",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV08N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPHV11N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPRO01NA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPRO01NB",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPRO10NA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPRO10NB",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPSI13N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WPSI14N_",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WeddingdayPersonalUseRegular-1Gvo0",
+      "batch": "batch-28"
+    },
+    {
+      "name": "Whimsy",
+      "batch": "batch-28"
+    },
+    {
+      "name": "Windsor BT Roman",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WinstonScriptRegular-lgzYd",
+      "batch": "batch-28"
+    },
+    {
+      "name": "WinstonscriptRegular-vmrPA",
+      "batch": "batch-28"
+    },
+    {
+      "name": "Woodland-K7Y0e",
+      "batch": "batch-28"
+    },
+    {
+      "name": "YasbiganScript-d96PE",
+      "batch": "batch-28"
+    },
+    {
+      "name": "Yellowtail-Regular",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-Bold",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-BoldItalic",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-Italic",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-Light",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-LightItalic",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-Medium",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-MediumItalic",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-Regular",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-SemiBold",
+      "batch": "batch-28"
+    },
+    {
+      "name": "ZillaSlab-SemiBoldItalic",
+      "batch": "batch-28"
+    },
+    {
+      "name": "woodcut",
+      "batch": "batch-28"
+    },
+    {
+      "name": "work_in_progress",
+      "batch": "batch-28"
+    },
+    {
+      "name": "xfiles",
+      "batch": "batch-28"
+    },
+    {
+      "name": "yearsupplyoffairycakes",
+      "batch": "batch-28"
+    }
+  ]
+}
